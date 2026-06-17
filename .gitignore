@@ -1,0 +1,6 @@
+# 대용량 원본 데이터 (93MB) — GitHub 제외, 별도 보관/배포
+dart_sections_final_381rows_fixed.csv
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.env
